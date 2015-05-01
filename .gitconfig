@@ -1,0 +1,16 @@
+[user]
+	name = Nick Clarke
+	email = nick.clarke@luciddg.com
+[core]
+	editor = vim
+[color]
+	ui = auto
+[pull]
+	rebase = true
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
+[filter "media"]
+	clean = git media clean %f
+	smudge = git media smudge %f
+	required = true
