@@ -18,6 +18,8 @@ set sw=2
 set expandtab
 set nocompatible
 filetype plugin indent on
+
+#disable arrow keys for improved vim foo
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
