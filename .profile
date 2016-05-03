@@ -2,7 +2,6 @@ GPG_TTY=`tty`
 export GPG_TTY
 export CLICOLOR=1
 
-
 # OSX-specific customizations
 # Before other PATHs...
 #PATH=${PATH}:/Library/Frameworks/Python.framework/Versions/2.7/bin/
