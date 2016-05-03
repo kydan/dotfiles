@@ -1,5 +1,3 @@
-
-
 # Tell ls to be colorful
 export CLICOLOR=1
 source ~/.bashrc
